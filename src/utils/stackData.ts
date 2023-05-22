@@ -9,6 +9,7 @@ import {
   FaNode,
   FaReact,
 } from "react-icons/fa";
+import { SiStyledcomponents } from "react-icons/si"
 
 export const stackData = [
   {
@@ -37,4 +38,5 @@ export const stackData = [
   { title: "PostgreSQL", img: SiPostgresql },
   { title: "Git", img: FaGit },
   { title: "Python", img: FaPython },
+  { title: "Styled Components", img: SiStyledcomponents },
 ];
